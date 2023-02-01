@@ -1,0 +1,10 @@
+CREATECATEGORY category-2F 15x15
+CREATECATEGORY category-2A 20x20
+SELLTICKET kadriye student category-2F B3 B4 C2-10
+SELLTICKET arzu student category-2F G4
+SELLTICKET felipe full category-2F H1-12
+SELLTICKET nani season category-2F G5
+CANCELTICKET category-2F B3
+SELLTICKET nani season category-2A G5
+SHOWCATEGORY category-2F
+BALANCE category-2F
